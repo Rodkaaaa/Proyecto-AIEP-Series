@@ -1,0 +1,40 @@
+hex
+#000000
+#002b5b
+#1a5f7a
+#159895
+#57c5b6
+#DAF7A6
+
+rgb
+rgb(0, 0, 0)
+rgb(0, 43, 91)
+rgb(26, 95, 122)
+rgb(21, 152, 149)
+rgb(87, 197, 182)
+rgb(218, 247, 166)
+
+html
+style="color:#000000;"
+style="color:#002b5b;"
+style="color:#1a5f7a;"
+style="color:#159895;"
+style="color:#57c5b6;"
+style="color:#DAF7A6;"
+
+css
+.color-1 {color: #000000;}
+.color-2 {color: #002b5b;}
+.color-3 {color: #1a5f7a;}
+.color-4 {color: #159895;}
+.color-5 {color: #57c5b6;}
+.color-6 {color: #DAF7A6;}
+
+scss
+$color-1: #000000;
+$color-2: #002b5b;
+$color-3: #1a5f7a;
+$color-4: #159895;
+$color-5: #57c5b6;
+$color-6: #DAF7A6;
+
